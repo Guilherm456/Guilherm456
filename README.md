@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu Sou Guilherme Vier</h1>
 <h3 align="center">Um estudante de Ciência da Computação apaixonado em explorar tecnologias</h3>
 
-- 🔭 Estou atualmente trabalhando em **Iniciação Cientifica (Simula-Web)**
+- 🔭 Estou atualmente trabalhando no **Vitaverse (Smart BR Soluções Tecnológicas)**
 
 - 🌱 Estou estudando **Typescript / Flutter / NestJS**
 

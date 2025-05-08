@@ -1,5 +1,8 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <h1 align="center">Olá 👋, Eu Sou Guilherme Vier</h1>
 <h3 align="center">Formado em Ciência da Computação apaixonado em explorar tecnologias</h3>
+
 
 - 🔭 Estou atualmente trabalhando na **PDV365**
 

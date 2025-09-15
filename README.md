@@ -4,7 +4,7 @@
 <h3 align="center">Formado em Ciência da Computação apaixonado em explorar tecnologias</h3>
 
 
-- 🔭 Estou atualmente trabalhando na **PDV365**
+- 🔭 Estou atualmente trabalhando na **Comunitive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
